@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DanielDawidowski/monsters/static/css/main.1806e5f9.chunk.css",
-    "main.js": "/DanielDawidowski/monsters/static/js/main.776041e1.chunk.js",
-    "main.js.map": "/DanielDawidowski/monsters/static/js/main.776041e1.chunk.js.map",
-    "runtime-main.js": "/DanielDawidowski/monsters/static/js/runtime-main.7c9e52b5.js",
-    "runtime-main.js.map": "/DanielDawidowski/monsters/static/js/runtime-main.7c9e52b5.js.map",
-    "static/js/2.6475e01f.chunk.js": "/DanielDawidowski/monsters/static/js/2.6475e01f.chunk.js",
-    "static/js/2.6475e01f.chunk.js.map": "/DanielDawidowski/monsters/static/js/2.6475e01f.chunk.js.map",
-    "index.html": "/DanielDawidowski/monsters/index.html",
-    "precache-manifest.e8f34b4c555d6fb7943243eaf171a9c6.js": "/DanielDawidowski/monsters/precache-manifest.e8f34b4c555d6fb7943243eaf171a9c6.js",
-    "service-worker.js": "/DanielDawidowski/monsters/service-worker.js",
-    "static/css/main.1806e5f9.chunk.css.map": "/DanielDawidowski/monsters/static/css/main.1806e5f9.chunk.css.map"
+    "main.css": "/github.io/monsters/static/css/main.1806e5f9.chunk.css",
+    "main.js": "/github.io/monsters/static/js/main.a0253804.chunk.js",
+    "main.js.map": "/github.io/monsters/static/js/main.a0253804.chunk.js.map",
+    "runtime-main.js": "/github.io/monsters/static/js/runtime-main.9245ea1c.js",
+    "runtime-main.js.map": "/github.io/monsters/static/js/runtime-main.9245ea1c.js.map",
+    "static/js/2.6475e01f.chunk.js": "/github.io/monsters/static/js/2.6475e01f.chunk.js",
+    "static/js/2.6475e01f.chunk.js.map": "/github.io/monsters/static/js/2.6475e01f.chunk.js.map",
+    "index.html": "/github.io/monsters/index.html",
+    "precache-manifest.1bb50569a36aecfdd95ab4acb64d9f1a.js": "/github.io/monsters/precache-manifest.1bb50569a36aecfdd95ab4acb64d9f1a.js",
+    "service-worker.js": "/github.io/monsters/service-worker.js",
+    "static/css/main.1806e5f9.chunk.css.map": "/github.io/monsters/static/css/main.1806e5f9.chunk.css.map"
   }
 }
